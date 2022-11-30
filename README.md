@@ -6,7 +6,7 @@ I have created the foundations of a larger web app by implementing user authenti
 
 I decided to write this software to get me started with Django to hopefully eventually make a web based notes app.
 
-[Software Demo Video](https://youtu.be/uKI9A4ixP6c)
+[Software Demo Video](https://youtu.be/UQP8CBZt70w)
 
 # Web Pages
 
