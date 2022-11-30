@@ -2,16 +2,16 @@
 
 This project was meant to get me started with web apps in Django.
 
-I am attempting to create a basic user authentication app. I want a login page, and a registration page, where the user input crednetials are verified.
+I have created the foundations of a larger web app by implementing user authentication.
 
-I decided to write this software to get me started with Django to hopefully eventually make a highly interactable shop website.
+I decided to write this software to get me started with Django to hopefully eventually make a web based notes app.
 
 [Software Demo Video](https://youtu.be/uKI9A4ixP6c)
 
 # Web Pages
 
-So far I have two pages, a login page and a registration page. I have yet to implement functionality in these 
-pages, but one can navigate between the two of them with different URL endings
+I have created a hom page, login page, and registration page. These all seamlessly hand off to each other to create a smooth
+user authentication experience.
 
 # Development Environment
 
@@ -27,6 +27,5 @@ Useful websites used:
 
 # Future Work
 
-* Add interface to login and registration pages
-* Add database to store user credentials
-* Integrate pages together to allow seamless transition between them.
+* Add some CSS to style the web pages I've added so far.
+* Add functionality to the home page to allow the user to create notes.
